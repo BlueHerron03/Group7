@@ -1,2 +1,2 @@
 Git Haiku first line
-
+Now this would be the next line
